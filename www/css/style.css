@@ -3,8 +3,8 @@ body {
 }
 
 #content-area {
-  width: 768px;
-  height: 1024px;
+  width: 100%;
+  height: 100%;
   text-align: center;
   position: absolute;
 }
@@ -12,7 +12,7 @@ body {
 #notation-holder {
   position: absolute;
   top: 50px;
-  left: 100px;
+    width: 100%;
 }
 #piano-holder {
   text-align: center;
